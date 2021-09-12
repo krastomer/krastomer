@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- I am gimmeabeer who didn't like beer.
+- I am gimmeabeer who didn't like beer maybe.
 - I'm currently studying on Computer Engineering, KMUTT.
 - I'm 20 years old.
 
