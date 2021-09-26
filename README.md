@@ -1,7 +1,7 @@
-## Hi there 👋
+## 🍺
 
 
-- I am gimmeabeer who didn't like beer maybe.
+- gimmeabeer, a name created from "Gimme Love" song from Joji and a like drink beer (sometime mix with soju).
 - I'm currently studying on Computer Engineering, KMUTT.
 - I'm 20 years old.
 
