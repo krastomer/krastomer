@@ -1,4 +1,5 @@
 ## Kasama Thongsawang
 
-- I'm currently studying on Computer Engineering, KMUTT.
-- I'm 21 years old.
+- 22 years old.
+- Graduated from Computer Engineering, KMUTT.
+- Find something over-engineer and make 🤯
